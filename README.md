@@ -54,6 +54,26 @@ Repositório dedicado ao desenvolvimento de habilidades em Machine Learning, Pyt
 	- Poda da árvore I
 	- Poda da árvore II
 
+- Módulo 08 | GitHub
+    - Controle de Versão Colaborativo
+    - Principais Comandos
+
+- Módulo 09 | TdD III - Agregações e operações em grupos
+	- Introdução
+	- Exemplos base real
+	- Método aggregate
+	- Método apply do groupby
+	- Mapping
+	- Tabela pivô
+
+Módulo 10 | Descritiva II - Análise descritiva para resposta contínua
+	- Covariância e correlação
+	- Matriz de correlação
+	- Outliers
+	- Bivariada: contínua e discreta
+	- Estabilidade
+
+* Atualmente em progresso nos demais módulos do curso.
 
 ##  🗂️Organização dos Arquivos
 - Pasta exercícios: 
