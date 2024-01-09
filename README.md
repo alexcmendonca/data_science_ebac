@@ -66,7 +66,7 @@ Repositório dedicado ao desenvolvimento de habilidades em Machine Learning, Pyt
 	- Mapping
 	- Tabela pivô
 
-Módulo 10 | Descritiva II - Análise descritiva para resposta contínua
+- Módulo 10 | Descritiva II - Análise descritiva para resposta contínua
 	- Covariância e correlação
 	- Matriz de correlação
 	- Outliers
